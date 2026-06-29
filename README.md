@@ -22,7 +22,7 @@ Darkelf is not a single browser — it is a **unified system**:
 
 * ⚡ **Quantum** - (Public Archive) PQ Chaining enahancements now merged in Darkelf Shadow CE.
 * 🔴 **RedSec** — Security-focused / stealth environment - Enterprise 
-* 🌑 **Shadow CE** — Hardened general-purpose build v5.0.6 Latest via Pip 
+* 🌑 **Shadow CE** — Hardened general-purpose build v5.0.9 Latest via Pip 
 * 🍫 **Cocoa** — Native macOS stable browser
 
 ### 🧰 CLI & Tooling
