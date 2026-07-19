@@ -15,8 +15,8 @@ Darkelf is not a single browser — it is a **unified system**:
 ### 🌐 Browser Variants
 
 * 🔴 **RedSec** — Security-focused / stealth environment - Enterprise 
-* 🌑 **Shadow CE** — Hardened general-purpose build v7.0.0 Latest via MacOS/Pip - Linux/Wndows Release in Future!
-* 🍫 **Cocoa** — Native macOS stable browser
+* 🌑 **Shadow CE** — Hardened general-purpose build v7.0.3Latest via MacOS/Pip - Linux/Wndows Release in Future!
+* 🍫 **Cocoa** — Native macOS 
 
 ### 🧰 CLI & Tooling
 
