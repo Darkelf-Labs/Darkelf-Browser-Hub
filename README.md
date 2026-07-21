@@ -5,7 +5,6 @@
 Darkelf is an open ecosystem of privacy-focused browsers, security tools, OSINT utilities, and research projects built for cybersecurity professionals, researchers, developers, educators, and privacy-conscious users.
 
 🌐 **Website:** https://darkelfbrowser.com  
-📚 **Documentation & Research:** https://github.com/Darkelf-Labs/Darkelf-Docs
 
 ---
 
